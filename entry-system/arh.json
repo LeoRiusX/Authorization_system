@@ -1,0 +1,10 @@
+{
+    "None": {
+        "password": "None",
+        "mail": "exemplemail@gmail.com"
+    },
+    "Admin": {
+        "password": "Admin",
+        "mail": "adminmail@gmail.com"
+    }
+}
